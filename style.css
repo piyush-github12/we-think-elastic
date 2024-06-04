@@ -1,3 +1,5 @@
+@import url('https://fonts.googleapis.com/css2?family=Poppins:ital,wght@0,100;0,200;0,300;0,400;0,500;0,600;0,700;0,800;0,900;1,100;1,200;1,300;1,400;1,500;1,600;1,700;1,800;1,900&display=swap');
+
 *{
     margin: 0;
     padding: 0;
@@ -31,6 +33,11 @@ body{
     align-items: center;
     justify-content: center;
 
+}
+#mloader{
+    width: 100vw;
+    height: 100vh;
+    background-color: #9ac0ca;
 }
 #loader{
     width: 100vw;
@@ -180,7 +187,6 @@ body{
 }
 #page3 span{
     font-size: 190px;
-    font-family: "segoe print";
     /* font-style: italic; */
     font-weight: 700;
     margin-right: 40px;
@@ -370,15 +376,13 @@ body{
 }
 
 #page5 h1{
-    font-size: 50vw;
+    font-size: 40vw;
     font-weight: 600;
-    font-family: "gilroy";
 }
 #page5 h1 span{
-    font-size: 50vw;
+    font-size: 40vw;
     font-weight: 600;
     position: relative;
-    font-family: "gilroy";
 } 
 /* #page5 h1 span #elastic51{
     width: 300px;
