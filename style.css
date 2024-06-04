@@ -4,7 +4,7 @@
     margin: 0;
     padding: 0;
     box-sizing: border-box;
-    font-family: "poppins";
+    font-family: "Poppins", sans-serif;
 }
 html, body{
     height: 100%;
@@ -126,7 +126,7 @@ body{
     
     font-size: 37vw;
     font-weight: 900;
-    letter-spacing: -3vw;
+    letter-spacing: -2vw;
     text-align: center;
 }
 #page1 h2 {
